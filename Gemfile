@@ -35,3 +35,5 @@ group :production do
 end
 
 gem 'pry-rails', group: :development
+
+gem 'bootstrap-sass', '2.3.2.0'
